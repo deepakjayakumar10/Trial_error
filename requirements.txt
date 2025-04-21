@@ -1,0 +1,14 @@
+#requirements.txt
+snowflake-snowpark-python
+snowflake.core
+streamlit
+streamlit-nightly
+requests
+speechrecognition
+pyaudio
+pyttsx3
+bokeh
+streamlit_bokeh_events
+audio-recorder-streamlit
+google-cloud-speech
+google-cloud-translate
